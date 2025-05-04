@@ -26,5 +26,5 @@ Visita [builderbot](https://builderbot.vercel.app/) para ver la documentación d
 
 Visita [Baileys WhatsApp Web API](https://baileys.wiki/docs/intro/) para ver la documentación de esta biblioteca.
 
-Visita [Baileys WhatsApp Web API](https://baileys.wiki/docs/intro/) para ver la documentación de esta biblioteca.
+Visita [API de Hojas de cálculo de Google](https://developers.google.com/workspace/sheets/api/guides/concepts?hl=es-419) para ver la documentación de esta API de Google Workspace.
 
