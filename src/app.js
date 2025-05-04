@@ -31,7 +31,7 @@ const getHaversineDistance = (firstLocation, secondLocation) => {
     return distance*1000;
 }
 
-const laEmpresa = { lat: -33.43765, lng: -70.65051 } //plaza de armas de Santiago
+const laEmpresa = { lat: -33.43765, lng: -70.65051 } // ubicación de ejemplo : plaza de armas de Santiago
 
 const welcomeFlow = addKeyword(EVENTS.WELCOME)
     .addAnswer([`*Chatbot* Registro de Asistencia`,
