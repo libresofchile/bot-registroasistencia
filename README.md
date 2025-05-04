@@ -1,44 +1,30 @@
 <p align="center">
-  <a href="https://builderbot.vercel.app/">
+  <a href="#">
     <picture>
-      <img src="https://builderbot.vercel.app/assets/thumbnail-vector.png" height="80">
+      <img src="https://avatars.githubusercontent.com/u/110422648?v=4" height="80">
     </picture>
-    <h2 align="center">BuilderBot</h2>
+    <h2 align="center">Registro de Asistencia</h2>
   </a>
 </p>
 
 
+## Descripción
 
-<p align="center">
-  <a aria-label="NPM version" href="https://www.npmjs.com/package/@builderbot/bot">
-    <img alt="" src="https://img.shields.io/npm/v/@builderbot/bot?color=%2300c200&label=%40bot-whatsapp">
-  </a>
-  <a aria-label="Join the community on GitHub" href="https://link.codigoencasa.com/DISCORD">
-    <img alt="" src="https://img.shields.io/discord/915193197645402142?logo=discord">
-  </a>
-</p>
+Con esta aplicación, puedes crear un sistema de registro de asistencia por geolocalización a través de WhatsApp, además podrás guardar los registros en la hoja de cálculo de Google Sheet. Revisa la documentación que se indica mas abajo para activar correctamente esta solución.
 
-
-## Getting Started
-
-With this library, you can build automated conversation flows agnostic to the WhatsApp provider, set up automated responses for frequently asked questions, receive and respond to messages automatically, and track interactions with customers. Additionally, you can easily set up triggers to expand functionalities limitlessly.
+## Instalación
 
 ```
-npm create builderbot@latest
+Descarga Git Clone
+npm i
 ```
 
 
-## Documentation
+## Documentación
 
-Visit [builderbot](https://builderbot.vercel.app/) to view the full documentation.
+Visita [builderbot](https://builderbot.vercel.app/) para ver la documentación de este marco de trabajo.
 
+Visita [Baileys WhatsApp Web API](https://baileys.wiki/docs/intro/) para ver la documentación de esta biblioteca.
 
-## Official Course
+Visita [Baileys WhatsApp Web API](https://baileys.wiki/docs/intro/) para ver la documentación de esta biblioteca.
 
-If you want to discover all the functions and features offered by the library you can take the course.
-[View Course](https://app.codigoencasa.com/courses/builderbot?refCode=LEIFER)
-
-
-## Contact Us
-- [💻 Discord](https://link.codigoencasa.com/DISCORD)
-- [👌 𝕏 (Twitter)](https://twitter.com/leifermendez)
